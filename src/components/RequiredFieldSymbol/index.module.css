@@ -1,0 +1,12 @@
+.required-field::before {
+  content: "*";
+  color: red;
+  font-size: medium;
+}
+
+.astrick-position {
+  position: relative;
+  top: 0px;
+  right: 1px;
+  bottom: 3px;
+}
